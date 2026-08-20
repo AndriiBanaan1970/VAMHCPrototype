@@ -1,2 +1,3 @@
 # VAMHCPrototype
 Prototype for VA
+This project is a skeleton prototype for the VA product offered by MHC. The website prototype will try the best to create a great user experience for the potential guest in order to increase sales. The prototype should help the team understand if the layout works well, develop the copy (text). I encourage each memeber of the team to look at the project and think honestly what is great and what is not great. Set your own goals. My goal is to elimante all complexity and ingenuity when it comes to overdone SEO. I hope that our effort will create a great website and we will feel satisfied. 
