@@ -1,29 +1,57 @@
 body {
-    font-family: Arial, Helvetica, sans-serif;
     margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif;
     color: #1d1d1f;
     background-color: #ffffff;
 }
 
+
+/* NAVIGATION */
+
 nav {
-    padding: 20px;
-    text-align: center;
+    display: flex;
+    justify-content: center;
+    gap: 35px;
+    padding: 20px 30px;
+    font-size: 14px;
 }
 
 nav a {
-    margin: 0 15px;
-    text-decoration: none;
     color: #1d1d1f;
+    text-decoration: none;
 }
+
+nav a:hover {
+    color: #6e6e73;
+}
+
+
+/* MAIN TITLE */
 
 h1 {
     font-size: 64px;
     font-weight: 600;
+    letter-spacing: -2px;
     text-align: center;
+    margin-top: 120px;
+    margin-bottom: 120px;
 }
 
+
+/* SECTIONS */
+
 h2 {
-    font-size: 40px;
+    font-size: 42px;
     font-weight: 500;
-    margin: 100px 40px 40px;
+    letter-spacing: -1px;
+    margin: 160px 60px 30px;
+}
+
+
+/* PARAGRAPHS */
+
+p {
+    font-size: 18px;
+    line-height: 1.6;
+    color: #6e6e73;
 }
